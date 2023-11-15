@@ -1,0 +1,34 @@
+{
+  "produits": [
+    {
+      "nom": "dfdm",
+      "Prix": "10000",
+      "Description": "dsds",
+      "id": 4
+    },
+    {
+      "nom": "dsd",
+      "Prix": "1250",
+      "Description": "sdsds",
+      "id": 5
+    },
+    {
+      "nom": "mknn,",
+      "Prix": "12000",
+      "Description": "môkjhhk",
+      "id": 6
+    },
+    {
+      "nom": "sdsds",
+      "Prix": "1400",
+      "Description": "dsdsdsdsdsdlkmqs",
+      "id": 7
+    },
+    {
+      "nom": "pattes de tomate",
+      "Prix": "15000",
+      "Description": "c'est de la tomate",
+      "id": 8
+    }
+  ]
+}
